@@ -116,7 +116,7 @@ function MidSection() {
         {/* maindivclose */}
       </div>
 
-      <div className='flex flex-col items-center justify-end align-middle'>
+      <div className='flex flex-col items-center justify-center align-middle'>
                 <div className='relative flex items-center'>
             <h4 className='font-bold text-xl text-maintheme'>Fit for all service</h4>
             <img className='absolute ml-3 -top-2 left-full transform -translate-x-1/2 -translate-y-1/2' src="assets/mid_section_lines.png" alt="" />
@@ -219,9 +219,23 @@ function MidSection() {
           <p className=' py-3 font-light text-[#5F718C]'>Salon & beauty</p>
         </div>
         
+          {/* grid close */}
+      </div>
+      <div className='flex flex-col items-center justify-center align-middle'>
+                <div className='relative flex items-center'>
+            <h4 className='font-bold text-xl text-maintheme'>Hassle free solution</h4>
+            <img className='absolute ml-3 -top-2 left-full transform -translate-x-1/2 -translate-y-1/2' src="assets/mid_section_lines.png" alt="" />
+                </div>
+      <h1 className='font-black text-5xl text-center'>Flexible Booking Settings alow you to have complete control over your shedule</h1>
+      <div className='grid grid-cols-5 gap-10 p-20 w-full '>
 
-        
+        <div>
+          
+        </div>
 
+      </div>
+      
+  
       </div>
     
     </div>
