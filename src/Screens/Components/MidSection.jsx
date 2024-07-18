@@ -15,7 +15,7 @@ function MidSection() {
     <div>
     <div className='flex items-center justify-start w-[60%] gap-10 border border-serviceText p-5 rounded-2xl hover:scale-105 transition-all ease-in-out 2s hover:shadow-lg hover:shadow-blue-200'>
     <div>
-      <img className='h-44' src="public/assets/man1.svg" alt="" />
+      <img className='h-44' src="assets/man1.svg" alt="" />
     </div>
     <div>
       <p className='text-3xl font-bold'><span className='bg-blue-100 px-4 py-1 rounded-full'>1</span> Find Your Service</p>
@@ -38,7 +38,7 @@ function MidSection() {
     
       <div className=' ml-auto flex items-center justify-end w-[60%]  gap-10 border border-serviceText p-5 rounded-2xl hover:scale-105 transition-all ease-in-out 2s hover:shadow-lg hover:shadow-blue-200'>
       <div>
-        <img className='h-44' src="public/assets/man1.svg" alt="" />
+        <img className='h-44' src="assets/man1.svg" alt="" />
       </div>
       <div>
         <p className='text-3xl font-bold'><span className='bg-blue-100 px-4 py-1 rounded-full'>1</span> Find Your Service</p>
@@ -57,7 +57,7 @@ function MidSection() {
     {/* 3 */}
     <div className='flex items-center justify-start w-[68%] gap-10 border border-serviceText p-5 rounded-2xl hover:scale-105 transition-all ease-in-out 2s hover:shadow-lg hover:shadow-blue-200'>
     <div>
-      <img className='h-52'  src="public/assets/man3.svg" alt="" />
+      <img className='h-52'  src="assets/man3.svg" alt="" />
     </div>
     <div>
       <p className='text-3xl font-bold'><span className='bg-blue-100 px-4 py-1 rounded-full'>1</span> Find Your Service</p>
@@ -73,7 +73,7 @@ function MidSection() {
     {/* 4 */}
     <div className=' ml-auto flex items-center justify-end w-[68%]  gap-10 border border-serviceText p-5 rounded-2xl hover:scale-105 transition-all ease-in-out 2s hover:shadow-lg hover:shadow-blue-200'>
       <div>
-        <img  className='h-52' src="public/assets/man4.svg" alt="" />
+        <img  className='h-52' src="assets/man4.svg" alt="" />
       </div>
       <div>
         <p className='text-3xl font-bold'><span className='bg-blue-100 px-4 py-1 rounded-full'>1</span> Find Your Service</p>
@@ -90,7 +90,7 @@ function MidSection() {
       {/* 5 */}
       <div className='flex items-center justify-start w-[68%] gap-10 border border-serviceText p-5 rounded-2xl hover:scale-105 transition-all ease-in-out 2s hover:shadow-lg hover:shadow-blue-200'>
     <div>
-      <img  className='h-52' src="public/assets/man5.svg" alt="" />
+      <img  className='h-52' src="assets/man5.svg" alt="" />
     </div>
     <div>
       <p className='text-3xl font-bold'><span className='bg-blue-100 px-4 py-1 rounded-full'>1</span> Find Your Service</p>

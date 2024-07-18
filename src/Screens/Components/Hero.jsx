@@ -77,7 +77,7 @@ function Hero() {
           <div>
             <img
               className={`w-80 xs:hidden lg:block  mt-6 transition-all ease-in-out 3s ${isHovered ? 'translate-x-24 translate-y-11' : ''}`}
-              src="/public/assets/Calendar.png"
+              src="assets/Calendar.png"
               alt="calendar image"
             />
           </div>
