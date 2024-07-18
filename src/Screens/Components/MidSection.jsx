@@ -55,6 +55,9 @@ function MidSection() {
       </div>
 
     {/* 3 */}
+    <div>
+
+    
     <div className='flex items-center justify-start w-[68%] gap-10 border border-serviceText p-5 rounded-2xl hover:scale-105 transition-all ease-in-out 2s hover:shadow-lg hover:shadow-blue-200'>
     <div>
       <img className='h-52'  src="assets/man3.svg" alt="" />
@@ -69,8 +72,13 @@ function MidSection() {
       </div>
     </div>
   </div>
+  <img className='absolute -translate-x-[20%] -translate-y-[25%] scale-150 pointer-events-none' src="assets/line3.svg" alt="" />
+  </div>
 
     {/* 4 */}
+    <div>
+
+    
     <div className=' ml-auto flex items-center justify-end w-[68%]  gap-10 border border-serviceText p-5 rounded-2xl hover:scale-105 transition-all ease-in-out 2s hover:shadow-lg hover:shadow-blue-200'>
       <div>
         <img  className='h-52' src="assets/man4.svg" alt="" />
@@ -85,6 +93,8 @@ function MidSection() {
         </div>
         
       </div>
+      </div>
+      <img className='absolute translate-x-[90%] scale-150  -translate-y-[20%]' src="assets/line4.svg" alt="" />
       </div>
 
       {/* 5 */}
