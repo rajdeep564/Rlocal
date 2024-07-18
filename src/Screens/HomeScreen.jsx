@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './Components/Navbar';
 import Hero from './Components/Hero';
 import MidSection from './Components/MidSection';
+import Footer from './Components/Footer';
 
 function HomeScreen() {
   return (
@@ -11,6 +12,7 @@ function HomeScreen() {
         <Hero/>
         <MidSection/>
       </div>
+      <Footer/>
     </div>
   )
 }

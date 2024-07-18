@@ -227,11 +227,34 @@ function MidSection() {
             <img className='absolute ml-3 -top-2 left-full transform -translate-x-1/2 -translate-y-1/2' src="assets/mid_section_lines.png" alt="" />
                 </div>
       <h1 className='font-black text-5xl text-center'>Flexible Booking Settings alow you to have complete control over your shedule</h1>
-      <div className='grid grid-cols-5 gap-10 p-20 w-full '>
+      <div className='grid grid-cols-5 gap-6 p-20 w-full '>
 
-        <div>
-          
+        <div className='flex flex-col items-center gap-10 justify-center'>
+          <img   src="assets/below1.svg" alt="" />
+          <p className=' font-medium text-pretty text-[#5F718C]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, molestias veritatis. Nihil possimus optio, distinctio libero ea incidunt aspernatur eveniet magni, ipsum ab cum amet temporibus, iure aut necessitatibus veniam!</p>
         </div>
+
+        <div className='flex flex-col items-center gap-10 justify-center'>
+          <img   src="assets/below1.svg" alt="" />
+          <p className=' font-medium text-pretty text-[#5F718C]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, molestias veritatis. Nihil possimus optio, distinctio libero ea incidunt aspernatur eveniet magni, ipsum ab cum amet temporibus, iure aut necessitatibus veniam!</p>
+        </div>
+
+        <div className='flex flex-col items-center gap-10 justify-center'>
+          <img   src="assets/below1.svg" alt="" />
+          <p className=' font-medium text-pretty text-[#5F718C]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, molestias veritatis. Nihil possimus optio, distinctio libero ea incidunt aspernatur eveniet magni, ipsum ab cum amet temporibus, iure aut necessitatibus veniam!</p>
+        </div>
+
+        <div className='flex flex-col items-center gap-10 justify-center'>
+          <img   src="assets/below1.svg" alt="" />
+          <p className=' font-medium text-pretty text-[#5F718C]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, molestias veritatis. Nihil possimus optio, distinctio libero ea incidunt aspernatur eveniet magni, ipsum ab cum amet temporibus, iure aut necessitatibus veniam!</p>
+        </div>
+
+        <div className='flex flex-col items-center gap-10 justify-center'>
+          <img   src="assets/below1.svg" alt="" />
+          <p className=' font-medium text-pretty text-[#5F718C]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. A, molestias veritatis. Nihil possimus optio, distinctio libero ea incidunt aspernatur eveniet magni, ipsum ab cum amet temporibus, iure aut necessitatibus veniam!</p>
+        </div>
+
+        
 
       </div>
       
