@@ -72,7 +72,7 @@ function MidSection() {
       </div>
     </div>
   </div>
-  <img className='absolute -translate-x-[20%] -translate-y-[25%] scale-150 pointer-events-none' src="assets/line3.svg" alt="" />
+  <img className=' pointer-events-none absolute -translate-x-[20%] -translate-y-[25%] scale-150 pointer-events-none' src="assets/line3.svg" alt="" />
   </div>
 
     {/* 4 */}
@@ -94,7 +94,7 @@ function MidSection() {
         
       </div>
       </div>
-      <img className='absolute translate-x-[90%] scale-150  -translate-y-[20%]' src="assets/line4.svg" alt="" />
+      <img className=' pointer-events-none absolute translate-x-[90%] scale-150  -translate-y-[20%]' src="assets/line4.svg" alt="" />
       </div>
 
       {/* 5 */}
