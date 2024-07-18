@@ -5,7 +5,7 @@ function MidSection() {
     <div className='flex flex-col items-center justify-end align-middle'>
                 <div className='relative flex items-center'>
             <h4 className='font-bold text-xl text-maintheme'>Hassle free solution</h4>
-            <img className='absolute ml-3 -top-2 left-full transform -translate-x-1/2 -translate-y-1/2' src="../../../public/assets/mid_section_lines.png" alt="" />
+            <img className='absolute ml-3 -top-2 left-full transform -translate-x-1/2 -translate-y-1/2' src="assets/mid_section_lines.png" alt="" />
                 </div>
       <h1 className='font-black text-5xl'>Easy Steps for booking Online appointment</h1>
 
