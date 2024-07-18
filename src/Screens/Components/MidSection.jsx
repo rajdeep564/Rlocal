@@ -51,7 +51,7 @@ function MidSection() {
         
       </div>
       </div>
-      <img className=" my-8 absolute -translate-y-[40%] translate-x-[70%] pointer-events-none" src="public/assets/line2.svg" alt="" />
+      <img className=" my-8 absolute -translate-y-[40%] translate-x-[70%] pointer-events-none" src="assets/line2.svg" alt="" />
       </div>
 
     {/* 3 */}
