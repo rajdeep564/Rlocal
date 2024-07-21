@@ -1,11 +1,20 @@
 import React from 'react'
-import HomeScreen from './Screens/HomeScreen'
+import HomeScreen from './Screens/home/main/HomeScreen'
+import RegisterMain from './Screens/registerVendor/RegisterMain'
+import { BrowserRouter, Route , Routes } from 'react-router-dom'
 
 function App() {
   return (
     <div className='bg-[#FAFBFC]'>
-      <HomeScreen/>
+    <BrowserRouter>
+      <Routes>
+      <Route path='/' element={<HomeScreen />}> </Route>
+      <Route path='/home' element={<HomeScreen />}> </Route>
+      <Route path='/vendorRegister' element={<RegisterMain />}></Route>
+      </Routes>
+    </BrowserRouter>
     </div>
+   
   )
 }
 

@@ -1,9 +1,17 @@
 import React from 'react'
-import { Button } from '../../components/ui/button'
+import { Button } from '../../../components/ui/button';
 import { Input } from "@/components/ui/input";
 import { SearchIcon } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
 
 function Navbar() {
+
+  const navigate = useNavigate();
+
+  const handleRegisterButton = () => {
+    navigate('/vendorRegister');
+  }
+
   return (
     <nav className='flex justify-between items-center xs:gap-12'>
       <h1 className='text-xl font-bold text-[#0058E5] lg:w-[30%]'>
@@ -16,7 +24,7 @@ function Navbar() {
       </div>
         
           
-        <Button className="border border-[#0058E5] bg-[#0058E5] hover:text-[#0058E5] hover:bg-white hover:border hover:border-[#0058E5]">
+        <Button className="border border-[#0058E5] bg-[#0058E5] hover:text-[#0058E5] hover:bg-white hover:border hover:border-[#0058E5]" onClick = {handleRegisterButton}>
           Register
         </Button>
       </div>

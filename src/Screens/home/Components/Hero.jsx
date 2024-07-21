@@ -8,7 +8,7 @@ import {
 } from "@/components/ui/card";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
-import { Button } from '../../components/ui/button';
+import { Button } from '../../../components/ui/button';
 
 function Hero() {
   const [isHovered, setIsHovered] = useState(false);
@@ -77,7 +77,7 @@ function Hero() {
           <div>
             <img
               className={`w-80 xs:hidden lg:block  mt-6 transition-all ease-in-out 3s ${isHovered ? 'translate-x-24 translate-y-11' : ''}`}
-              src="assets/Calendar.png"
+              src="https://firebasestorage.googleapis.com/v0/b/appointx-badae.appspot.com/o/website%20images%2FCalendar.svg?alt=media&token=3eece63b-50e3-4725-b78e-f1a776a86b5a"
               alt="calendar image"
             />
           </div>

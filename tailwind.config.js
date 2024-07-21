@@ -27,6 +27,7 @@ module.exports = {
       colors: {
         primarytext:"#272727",
         serviceText:"#5F718C",
+        RegisterTitle : "#333333",
         maintheme:"#0058E5",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
