@@ -8,7 +8,8 @@ import UploadDocuments from './instance/UploadDocuments'
 
 //firebase 
 import { db } from '../../firebase/firebase.js';
-import { collection, addDoc } from 'firebase/firestore'
+import { collection, addDoc } from 'firebase/firestore';
+import {}
 
 const RegisterInput = () => {
 
